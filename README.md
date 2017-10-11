@@ -1,0 +1,1 @@
+Set of basic algorithms for educational purposes
